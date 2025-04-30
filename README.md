@@ -23,10 +23,10 @@ export LANGCHAIN_PROJECT="RAG"
 
 ## References 
 
-LangChain Documentation
-Google's Gemini API
-Chroma Vector Store
-Original Blog Post
+-LangChain Documentation
+-Google's Gemini API
+-Chroma Vector Store
+-Original Blog Post
 
 ## Installation
 
