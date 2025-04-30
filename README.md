@@ -15,18 +15,19 @@ This project implements a Retrieval-Augmented Generation (RAG) system using Goog
 ## Environment Variables
 You'll need to set up the following environment variables:
 
-export GOOGLE_API_KEY="your_google_api_key"
-export LANGCHAIN_TRACING_V2="true"
-export LANGCHAIN_ENDPOINT="https://api.smith.langchain.com"
-export LANGCHAIN_API_KEY="your_langsmith_api_key"
-export LANGCHAIN_PROJECT="RAG" 
+- export GOOGLE_API_KEY="your_google_api_key"
+- export LANGCHAIN_TRACING_V2="true"
+- export LANGCHAIN_ENDPOINT="https://api.smith.langchain.com"
+- export LANGCHAIN_API_KEY="your_langsmith_api_key"
+- export LANGCHAIN_PROJECT="RAG" 
 
 ## References 
 
--LangChain Documentation
--Google's Gemini API
--Chroma Vector Store
--Original Blog Post
+- LangChain Documentation
+- Google's Gemini API
+- Chroma Vector Store
+- Original Blog Post
+
 
 ## Installation
 
