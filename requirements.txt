@@ -3,4 +3,4 @@ langchain-community
 langchainhub 
 beautifulsoup4
 langchain_google_genai 
-pinecone-client 
+langchain-chroma 
